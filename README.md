@@ -22,6 +22,5 @@ jusTry();
 - [ ] this is an incomplete item
 
 
-- Farhan
-- Apriliandi
+- Farhan - Apriliandi
 
